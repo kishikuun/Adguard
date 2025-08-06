@@ -1,4 +1,5 @@
 #!name=Adguard
+
 [General]
 bypass-system = true
 skip-proxy = localhost, *.local
